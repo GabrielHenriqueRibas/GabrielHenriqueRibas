@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./assets/welcome.gif" alt="Welcome">
-</div>
-
 # Olá, Mundo! 🌍✨
 
 Sou **Gabriel Henrique Ribas**, um desenvolvedor apaixonado por tecnologia e inovação! 🚀💻
