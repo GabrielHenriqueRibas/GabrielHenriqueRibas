@@ -15,7 +15,7 @@ Desenvolvedor apaixonado por tecnologia e inovação
 
 ## Atuação
 
-Atuo como professor estadual no Paraná na componente de Informação e Comunicação, contribuindo para a formação digital de jovens estudantes. Fora da sala de aula, desenvolvo projetos com foco em web e tecnologias modernas.
+Atuo como professor estadual no Paraná na componente de Informação e Comunicação no curso tecnico de Desenvolvimento para sistemas.
 
 
 ## Conecte-se
